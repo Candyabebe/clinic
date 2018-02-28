@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="cdi-api-1.0">
+    <CLASSES>
+      <root url="jar://C:/MavenDependencies/cdi-api-1.0.jar!/" />
+      <root url="jar://C:/MavenDependencies/javax.inject-1.jar!/" />
+      <root url="jar://C:/MavenDependencies/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://C:/MavenDependencies/jstl-1.2.jar!/" />
+      <root url="jar://C:/MavenDependencies/mysql-connector-java-5.1.44.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
